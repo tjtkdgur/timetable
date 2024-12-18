@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/timetable/static/css/main.061ace07.css",
+    "main.js": "/timetable/static/js/main.99c7c6a8.js",
+    "static/js/453.2fd972d2.chunk.js": "/timetable/static/js/453.2fd972d2.chunk.js",
+    "static/media/VITRO PRIDE TTF.ttf": "/timetable/static/media/VITRO PRIDE TTF.4a989a61e6062c1b91d1.ttf",
+    "static/media/NANUMSQUAREROUNDR.TTF": "/timetable/static/media/NANUMSQUAREROUNDR.f062cb52be3e9829834c.TTF",
+    "static/media/NANUMSQUAREROUNDB.TTF": "/timetable/static/media/NANUMSQUAREROUNDB.8ab117fc37409bd022e5.TTF",
+    "static/media/NANUMSQUAREROUNDEB.TTF": "/timetable/static/media/NANUMSQUAREROUNDEB.ef4043133d5b2d0febb4.TTF",
+    "static/media/NANUMSQUAREROUNDL.TTF": "/timetable/static/media/NANUMSQUAREROUNDL.34b53f3711c695552994.TTF",
+    "index.html": "/timetable/index.html",
+    "main.061ace07.css.map": "/timetable/static/css/main.061ace07.css.map",
+    "main.99c7c6a8.js.map": "/timetable/static/js/main.99c7c6a8.js.map",
+    "453.2fd972d2.chunk.js.map": "/timetable/static/js/453.2fd972d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.061ace07.css",
+    "static/js/main.99c7c6a8.js"
+  ]
+}
